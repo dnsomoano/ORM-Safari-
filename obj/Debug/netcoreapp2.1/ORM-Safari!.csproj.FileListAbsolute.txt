@@ -1,0 +1,11 @@
+C:\Users\Dan\sdg\unit-3\ORM-Safari!\bin\Debug\netcoreapp2.1\ORM-Safari!.deps.json
+C:\Users\Dan\sdg\unit-3\ORM-Safari!\bin\Debug\netcoreapp2.1\ORM-Safari!.runtimeconfig.json
+C:\Users\Dan\sdg\unit-3\ORM-Safari!\bin\Debug\netcoreapp2.1\ORM-Safari!.runtimeconfig.dev.json
+C:\Users\Dan\sdg\unit-3\ORM-Safari!\bin\Debug\netcoreapp2.1\ORM-Safari!.dll
+C:\Users\Dan\sdg\unit-3\ORM-Safari!\bin\Debug\netcoreapp2.1\ORM-Safari!.pdb
+C:\Users\Dan\sdg\unit-3\ORM-Safari!\obj\Debug\netcoreapp2.1\ORM-Safari!.csprojAssemblyReference.cache
+C:\Users\Dan\sdg\unit-3\ORM-Safari!\obj\Debug\netcoreapp2.1\ORM-Safari!.csproj.CoreCompileInputs.cache
+C:\Users\Dan\sdg\unit-3\ORM-Safari!\obj\Debug\netcoreapp2.1\ORM-Safari!.AssemblyInfoInputs.cache
+C:\Users\Dan\sdg\unit-3\ORM-Safari!\obj\Debug\netcoreapp2.1\ORM-Safari!.AssemblyInfo.cs
+C:\Users\Dan\sdg\unit-3\ORM-Safari!\obj\Debug\netcoreapp2.1\ORM-Safari!.dll
+C:\Users\Dan\sdg\unit-3\ORM-Safari!\obj\Debug\netcoreapp2.1\ORM-Safari!.pdb
